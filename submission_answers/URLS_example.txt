@@ -1,0 +1,8 @@
+Q1 (README.md URL):
+https://github.com/<YOUR-GITHUB-USERNAME>/oaqjp-final-project-emb-ai/blob/main/README.md
+
+Q6 (__init__.py URL):
+https://github.com/<YOUR-GITHUB-USERNAME>/oaqjp-final-project-emb-ai/blob/main/EmotionDetection/__init__.py
+
+Example with username "rahul123":
+https://github.com/rahul123/oaqjp-final-project-emb-ai/blob/main/README.md

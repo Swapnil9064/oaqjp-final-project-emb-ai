@@ -1,0 +1,5 @@
+theia@theiadocker-user:/home/project/final_project$ python3
+>>> from emotion_detection import emotion_detector
+>>> print(emotion_detector('I love my life'))
+{'anger': 0.0132405, 'disgust': 0.0020517, 'fear': 0.0047601, 'joy': 0.9686173, 'sadness': 0.0094629, 'dominant_emotion': 'joy'}
+>>> exit()

@@ -1,0 +1,16 @@
+Q1  -> README.md GitHub URL (URLS_example.txt)
+Q2  -> 2a: emotion_detection.py (basic version: sirf requests.post + return response.text)
+Q3  -> 2b_application_creation.txt
+Q4  -> 3a: emotion_detection.py (dict + dominant_emotion version)
+Q5  -> 3b_formatted_output_test.txt
+Q6  -> __init__.py GitHub URL
+Q7  -> 4b_packaging_test.txt
+Q8  -> test_emotion_detection.py
+Q9  -> 5b_unit_testing_result.txt
+Q10 -> server.py (basic version, bina "Invalid text" check)
+Q11 -> screenshot 6b_deployment_test.png (apna real screenshot)
+Q12 -> emotion_detection.py (status 400 handling = final file)
+Q13 -> server.py (Invalid text check = final file)
+Q14 -> screenshot 7c_error_handling_interface.png (apna real screenshot)
+Q15 -> server.py (pylint-clean = final file)
+Q16 -> 8b_static_code_analysis.txt
